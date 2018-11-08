@@ -1,0 +1,174 @@
+fileFormatVersion: 2
+guid: ab4d2acac65717a4b8d766fd0c90f763
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: ArmLower_L
+    100002: ArmLower_R
+    100004: ArmUpper_L
+    100006: ArmUpper_R
+    100008: Fingers_L
+    100010: Fingers_R
+    100012: Foot_L
+    100014: Foot_R
+    100016: Head
+    100018: LegLower_L
+    100020: LegLower_R
+    100022: LegUpper_L
+    100024: LegUpper_R
+    100026: Neck
+    100028: Pelvis_L
+    100030: Pelvis_R
+    100032: //RootNode
+    100034: RecruitArmature
+    100036: RecruitBody
+    100038: Root
+    100040: Shoulder_L
+    100042: Shoulder_R
+    100044: SpineLower
+    100046: SpineSuper
+    100048: SpineUpper
+    100050: Thumb_L
+    100052: Thumb_R
+    100054: ThumbJoint_L
+    100056: ThumbJoint_R
+    100058: Wrist_L
+    100060: Wrist_R
+    100062: Cube
+    400000: ArmLower_L
+    400002: ArmLower_R
+    400004: ArmUpper_L
+    400006: ArmUpper_R
+    400008: Fingers_L
+    400010: Fingers_R
+    400012: Foot_L
+    400014: Foot_R
+    400016: Head
+    400018: LegLower_L
+    400020: LegLower_R
+    400022: LegUpper_L
+    400024: LegUpper_R
+    400026: Neck
+    400028: Pelvis_L
+    400030: Pelvis_R
+    400032: //RootNode
+    400034: RecruitArmature
+    400036: RecruitBody
+    400038: Root
+    400040: Shoulder_L
+    400042: Shoulder_R
+    400044: SpineLower
+    400046: SpineSuper
+    400048: SpineUpper
+    400050: Thumb_L
+    400052: Thumb_R
+    400054: ThumbJoint_L
+    400056: ThumbJoint_R
+    400058: Wrist_L
+    400060: Wrist_R
+    400062: Cube
+    2100000: RecruitTexture__RecruitTexture
+    2100002: unnamed
+    2300000: Cube
+    3300000: Cube
+    4300000: RecruitBody
+    4300002: Cube
+    7400000: Default Take
+    7400002: RecruitArmatureAction
+    7400004: Idle
+    7400006: SitDown
+    7400008: Sitting
+    7400010: StandUp
+    7400012: AtEase
+    7400014: CrouchTactical
+    7400016: FallBack
+    7400018: FallForward
+    7400020: ShimmyLeft
+    7400022: StandGun
+    7400024: StandTactical
+    7400026: WalkGun
+    7400028: WalkTactical
+    9500000: //RootNode
+    13700000: RecruitBody
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
