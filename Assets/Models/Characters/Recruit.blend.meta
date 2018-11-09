@@ -90,7 +90,12 @@ ModelImporter:
     7400028: WalkTactical
     9500000: //RootNode
     13700000: RecruitBody
-  externalObjects: {}
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: RecruitTexture__RecruitTexture
+    second: {fileID: 2100000, guid: 5045a1694557db04bbb1f305594dfe75, type: 2}
   materials:
     importMaterials: 1
     materialName: 0

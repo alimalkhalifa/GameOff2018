@@ -4,7 +4,7 @@ using UnityEngine;
 
 public class CharacterMovement : MonoBehaviour {
 
-    public float speed = 3f;
+    public float speed = 6f;
 
     private CharacterController body;
     private Animator anim;
@@ -25,7 +25,7 @@ public class CharacterMovement : MonoBehaviour {
             transform.rotation = Quaternion.LookRotation(dir);
         }
 
-        var movement = Quaternion.LookRotation(Vector3.Scale(Camera.main.transform.forward, new Vector3(1f, 0f, 1f))) * new Vector3(horizontal, 0f, vertical);
+        var movement = Quaternion.LookRotation(Vector3.Scale(Camera.main.transform.forward, new Vector3(1f, 0f, 1f))) * new Vector3(horizontal, 0f, vertical).normalized;
         var velocity = movement * speed;
         body.SimpleMove(velocity);
 
